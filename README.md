@@ -1,4 +1,4 @@
-# Outfit_Generation_Recommendation
+# Outfit_Generation_Recommendation (2023)
 
 How can we provide personalized outfit recommendations by discriminating appropriate outfits to user? And how can we predict missing fasion item in an incomplete unseen outfit and complete it?
 
